@@ -4,5 +4,5 @@ end
 
 alias ..="cd .."
 alias config="nano ~/.config/fish/config.fish"
-
+alias ls="exa"
 
