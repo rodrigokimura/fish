@@ -1,0 +1,1 @@
+/home/rodrigokimura/.asdf/completions/asdf.fish
